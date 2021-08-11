@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "dam-ionic-gallery",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

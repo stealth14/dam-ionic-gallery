@@ -1,0 +1,7 @@
+{
+  "name": "dam-ionic-gallery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
